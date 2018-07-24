@@ -34,8 +34,14 @@ def dinner(food3="Salmon")
   puts "Evening is the best time for #{food3}!"
 end
 
-breakfast(scrambled eggs)
+breakfast(waffle)
 
-lunch ()
+lunch(mac and cheese)
+
+dinner(hamburger)
+
+breakfast
+
+lunch
 
 dinner
