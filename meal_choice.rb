@@ -1,5 +1,5 @@
-def snacks(food)
-  "Anytime, is the best time for cheetos!"
+def snacks(food="Cheetos")
+  "Any time, is the right time for #{food}!"
 end
 
 def breakfast(food="frosted flakes")
