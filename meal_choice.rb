@@ -27,9 +27,15 @@ def breakfast(food="Frosted Flakes")
 end
 
 def lunch(food2="Grilled cheese")
-  puts ""
+  puts "Noon is the best time for #{food2}!"
 end
 
 def dinner(food3="Salmon")
-  puts ""
+  puts "Evening is the best time for #{food3}!"
 end
+
+breakfast(scrambled eggs)
+
+lunch ()
+
+dinner
