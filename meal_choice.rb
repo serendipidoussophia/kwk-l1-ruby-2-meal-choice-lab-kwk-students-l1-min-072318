@@ -1,3 +1,7 @@
+def snacks(food)
+  "Anytime, is the best time for cheetos!"
+end
+
 def breakfast(food="frosted flakes")
    "Morning is the best time for #{food}!"
 end
