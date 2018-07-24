@@ -1,12 +1,12 @@
-def breakfast(food="frosted flakes")
+def breakfast(food="frosted flakes".downcase)
   puts "Morning is the best time for #{food}!"
 end
 
-def lunch(food="grilled cheese")
+def lunch(food="grilled cheese".downcase)
   puts "Noon is the best time for #{food}!"
 end
 
-def dinner(food="salmon")
+def dinner(food="salmon".downcase)
   puts "Evening is the best time for #{food}!"
 end
 
