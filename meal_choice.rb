@@ -22,7 +22,7 @@ puts snacks("Swedish fish")
 puts snacks
 ## In our snacks method, the default choice is "Cheetos" Calling snacks like this without specifying a choice will return "Any time, is the right time for Cheetos!"
 
-def breakfast(food=frostedflakes)
+def breakfast(food=""frostedflakes")
   puts "Morning is the best time for #{food}!"
 end
 
