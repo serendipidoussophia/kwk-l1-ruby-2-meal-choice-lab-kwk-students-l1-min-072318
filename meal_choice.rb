@@ -21,14 +21,14 @@ def dinner(food="salmon")
   puts "Evening is the best time for #{food}!"
 end
 
-breakfast("waffle")
+puts breakfast("waffle")
 
-lunch("mac and cheese")
+puts lunch("mac and cheese")
 
-dinner("hamburger")
+puts dinner("hamburger")
 
-breakfast
+puts breakfast
 
-lunch
+puts lunch
 
-dinner
+puts dinner
