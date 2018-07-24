@@ -1,4 +1,4 @@
-def breakfast(food="frosted flakes".downcase)
+def breakfast(food="frosted flakes")
   puts "Morning is the best time for #{food}!"
 end
 
